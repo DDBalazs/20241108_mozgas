@@ -1,0 +1,17 @@
+.kocka{
+    height: 30px;
+    width: 30px;
+    background-color: aqua;
+    position: absolute;
+}
+img{
+    height: 30px;
+    width: 30px;
+    justify-content: center;
+}
+.pontt{
+    height: 15px;
+    width: 15px;
+    border: 3px solid black;
+    position: absolute;
+}
